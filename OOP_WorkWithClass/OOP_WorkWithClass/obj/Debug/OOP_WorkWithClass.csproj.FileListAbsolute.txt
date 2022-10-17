@@ -1,0 +1,8 @@
+D:\Visual Studio\Project\OOP_WorkWithClass\OOP_WorkWithClass\bin\Debug\OOP_WorkWithClass.exe.config
+D:\Visual Studio\Project\OOP_WorkWithClass\OOP_WorkWithClass\bin\Debug\OOP_WorkWithClass.exe
+D:\Visual Studio\Project\OOP_WorkWithClass\OOP_WorkWithClass\bin\Debug\OOP_WorkWithClass.pdb
+D:\Visual Studio\Project\OOP_WorkWithClass\OOP_WorkWithClass\obj\Debug\OOP_WorkWithClass.csproj.AssemblyReference.cache
+D:\Visual Studio\Project\OOP_WorkWithClass\OOP_WorkWithClass\obj\Debug\OOP_WorkWithClass.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Project\OOP_WorkWithClass\OOP_WorkWithClass\obj\Debug\OOP_WorkWithClass.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Project\OOP_WorkWithClass\OOP_WorkWithClass\obj\Debug\OOP_WorkWithClass.exe
+D:\Visual Studio\Project\OOP_WorkWithClass\OOP_WorkWithClass\obj\Debug\OOP_WorkWithClass.pdb
